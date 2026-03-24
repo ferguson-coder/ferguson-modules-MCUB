@@ -1,6 +1,6 @@
 # requires: aiohttp, requests
-# author: @kmodules (ported by AI Assistant)
-# version: 1.0.0
+# author: @fergexe 
+# version: 1.0.1
 # description: CopyUser - копирование профиля пользователя (работает по reply/@username/ID)
 # scop: kernel (min) v([__lastest__])
 
