@@ -1,6 +1,6 @@
 
 # requires: aiohttp
-# author: @ferguson
+# author: @fergexe
 # version: 1.0.0
 # description: Простой докс-модуль с заглушкой
 # scop: kernel (min) v([__lastest__])
